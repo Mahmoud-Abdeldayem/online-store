@@ -6,7 +6,7 @@ This is an Online Store web application built with a microservices architecture 
 
 ## System Architecture
 
-![System Architecture](/Documents/Online-Store-Microservices.png)
+![System Architecture](Documents/Online-Store-Microservices.png)
 
 ## Technologies Used
 
@@ -22,7 +22,7 @@ This is an Online Store web application built with a microservices architecture 
 
 **Responsibilities**: Manages user authentication and authorization.
 
-**Endpoints**:
+**Endpoints , Port : 9090**:
 ```http
 POST users/auth/register
 POST users/auth/login
