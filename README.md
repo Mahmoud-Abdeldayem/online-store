@@ -16,7 +16,7 @@ This is an Online Store web application built with a microservices architecture 
 - Maven
 - Docker
 
-## Microservices
+## Microservices Instance
 
 ### User Service
 
