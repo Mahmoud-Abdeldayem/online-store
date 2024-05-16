@@ -6,7 +6,7 @@ This is an Online Store web application built with a microservices architecture 
 
 ## System Architecture
 
-![System Architecture](Documents/Online-Store-Microservices.png)
+![System Architecture](Online-Store-Microservices.png)
 
 ## Technologies Used
 
